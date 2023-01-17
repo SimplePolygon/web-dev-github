@@ -1,0 +1,15 @@
+git init creates empty repository
+
+git status shows status of repository (i.e. commits made)
+
+git add adds file to staging area
+
+git config --global user.email "you@example.com" updates email id
+
+git config --global user.name "Your Name" updates name id
+
+git commit -m "commit message" adds a commit with a message
+
+git log shows a log of commits
+
+git add . stages all commits and adds untracked files to staging area
