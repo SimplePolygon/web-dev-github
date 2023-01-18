@@ -17,3 +17,9 @@ git add . stages all commits and adds untracked files to staging area
 git branch shows the current branch
 
 git branch -m "branch name" changes the branch's name
+
+git checkout -b "branch name" makes a new branch and switches to it
+
+git checkout "branch name" switches to the branch
+
+git merge "branch name" merges the specified branch to the current branch
