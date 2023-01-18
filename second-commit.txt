@@ -13,3 +13,7 @@ git commit -m "commit message" adds a commit with a message
 git log shows a log of commits
 
 git add . stages all commits and adds untracked files to staging area
+
+git branch shows the current branch
+
+git branch -m "branch name" changes the branch's name
